@@ -1,0 +1,32 @@
+﻿body {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+.css-b62m3t-container {
+	width:70vw;
+	margin: 10px auto;
+}
+.select_season {
+	width: 30vw;
+}
+.all_parameters {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+}
+
+p {
+	display: inline-block;
+	margin: 10px;
+}
+
+.poster {
+	width: 200px;
+	height: 300px;
+	margin:auto;
+}
+
+#data {
+	display: flex;
+}
